@@ -1,4 +1,4 @@
-Only code that has my signature was edited by me. Template and other classes were provided by SFU.
+Only code that has my signature was implemented by me. Template and other classes were provided by SFU.
 
 ## MainGUI
 
